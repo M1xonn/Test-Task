@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_management.TestAppManagement-20240810151033" tests="4" file="test_management.py" time="38.410" timestamp="2024-08-10T15:11:12" failures="0" errors="0" skipped="0">
+	<testcase classname="test_management.TestAppManagement" name="test_custom_start" time="10.220" timestamp="2024-08-10T15:10:43" file="test_management.py" line="39"/>
+	<testcase classname="test_management.TestAppManagement" name="test_default_start" time="10.090" timestamp="2024-08-10T15:10:54" file="test_management.py" line="33"/>
+	<testcase classname="test_management.TestAppManagement" name="test_help" time="0.319" timestamp="2024-08-10T15:10:54" file="test_management.py" line="52"/>
+	<testcase classname="test_management.TestAppManagement" name="test_restart" time="17.781" timestamp="2024-08-10T15:11:12" file="test_management.py" line="45"/>
+</testsuite>
