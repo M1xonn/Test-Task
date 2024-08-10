@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_api.TestAPI-20240810150711" tests="16" file="test_api.py" time="0.037" timestamp="2024-08-10T15:07:11" failures="0" errors="0" skipped="0">
+	<testcase classname="test_api.TestAPI" name="test_addition" time="0.007" timestamp="2024-08-10T15:07:11" file="test_api.py" line="22"/>
+	<testcase classname="test_api.TestAPI" name="test_addition_boundary_value" time="0.002" timestamp="2024-08-10T15:07:11" file="test_api.py" line="38"/>
+	<testcase classname="test_api.TestAPI" name="test_addition_exceed_value_range" time="0.002" timestamp="2024-08-10T15:07:11" file="test_api.py" line="77"/>
+	<testcase classname="test_api.TestAPI" name="test_division" time="0.002" timestamp="2024-08-10T15:07:11" file="test_api.py" line="30"/>
+	<testcase classname="test_api.TestAPI" name="test_division_boundary_value" time="0.002" timestamp="2024-08-10T15:07:11" file="test_api.py" line="46"/>
+	<testcase classname="test_api.TestAPI" name="test_division_exceed_value_range" time="0.003" timestamp="2024-08-10T15:07:11" file="test_api.py" line="85"/>
+	<testcase classname="test_api.TestAPI" name="test_invalid_json_format" time="0.003" timestamp="2024-08-10T15:07:11" file="test_api.py" line="73"/>
+	<testcase classname="test_api.TestAPI" name="test_missing_keys" time="0.001" timestamp="2024-08-10T15:07:11" file="test_api.py" line="65"/>
+	<testcase classname="test_api.TestAPI" name="test_multiplication" time="0.003" timestamp="2024-08-10T15:07:11" file="test_api.py" line="26"/>
+	<testcase classname="test_api.TestAPI" name="test_multiplication_boundary_value" time="0.002" timestamp="2024-08-10T15:07:11" file="test_api.py" line="42"/>
+	<testcase classname="test_api.TestAPI" name="test_multiplication_exceed_value_range" time="0.002" timestamp="2024-08-10T15:07:11" file="test_api.py" line="81"/>
+	<testcase classname="test_api.TestAPI" name="test_non_integer_values" time="0.001" timestamp="2024-08-10T15:07:11" file="test_api.py" line="69"/>
+	<testcase classname="test_api.TestAPI" name="test_remainder" time="0.002" timestamp="2024-08-10T15:07:11" file="test_api.py" line="34"/>
+	<testcase classname="test_api.TestAPI" name="test_remainder_boundary_value" time="0.002" timestamp="2024-08-10T15:07:11" file="test_api.py" line="50"/>
+	<testcase classname="test_api.TestAPI" name="test_remainder_exceed_value_range" time="0.003" timestamp="2024-08-10T15:07:11" file="test_api.py" line="89"/>
+	<testcase classname="test_api.TestAPI" name="test_state" time="0.001" timestamp="2024-08-10T15:07:11" file="test_api.py" line="15"/>
+</testsuite>
